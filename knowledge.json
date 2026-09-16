@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Employees receive 20 paid vacation days per year.",
+    "category": "vacation"
+  },
+  {
+    "text": "Employees can request reimbursement for approved business expenses.",
+    "category": "reimbursement"
+  },
+  {
+    "text": "Reimbursement requests must be submitted within 30 days.",
+    "category": "reimbursement"
+  }
+]
